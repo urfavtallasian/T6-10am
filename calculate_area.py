@@ -1,4 +1,4 @@
-# This script defines a function to calculate theblrv area of a rectangle.
+# This script defines a function to calculate th.  eblrv area of a rectangle.
 def calculate_area(length, width):
     area = length * width
     return area
